@@ -3,9 +3,9 @@ A brief introduction to numerical methods at Bayreuth University
 
 ### Content
 
-1-	Vectors and matrices
-2.	Linear algebra and matrix decomposition
-3.  Linear equations and solving linear systems
-5.	Interpolation
-6.	Monte Carlo method
+- Vectors and matrices
+- Linear algebra and matrix decomposition
+- Linear equations and solving linear systems
+- Interpolation
+- Monte Carlo method
 
