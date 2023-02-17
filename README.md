@@ -1,5 +1,5 @@
 # Intro_Numerical_Analysis (Block course)
-A brief introduction to numerical methods at Bayreuth University
+A brief introduction to numerical methods (Bayreuth University)
 
 ### Content
 
